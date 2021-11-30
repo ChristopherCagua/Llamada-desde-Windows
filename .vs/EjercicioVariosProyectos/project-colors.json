@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16c659f1-c663-4944-863d-db16e9666fcc": {
+      "ProjectGuid": "16c659f1-c663-4944-863d-db16e9666fcc",
+      "DisplayName": "FuncionesPrincipales",
+      "ColorIndex": 0
+    },
+    "2b8b63ce-bbe3-418f-88f5-6ecc05fcb729": {
+      "ProjectGuid": "2b8b63ce-bbe3-418f-88f5-6ecc05fcb729",
+      "DisplayName": "Callfunciones",
+      "ColorIndex": 1
+    },
+    "e6241e08-8592-4b3a-a725-3a03c158175f": {
+      "ProjectGuid": "e6241e08-8592-4b3a-a725-3a03c158175f",
+      "DisplayName": "BibliotecaDeFunciones",
+      "ColorIndex": 2
+    },
+    "75267031-6d97-4298-8ea6-2ad52895ea05": {
+      "ProjectGuid": "75267031-6d97-4298-8ea6-2ad52895ea05",
+      "DisplayName": "LlamandoDesdeWin",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

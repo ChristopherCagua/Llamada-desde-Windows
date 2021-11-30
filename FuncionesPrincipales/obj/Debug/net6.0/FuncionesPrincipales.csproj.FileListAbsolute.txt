@@ -1,0 +1,12 @@
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\bin\Debug\net6.0\FuncionesPrincipales.deps.json
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\bin\Debug\net6.0\FuncionesPrincipales.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\bin\Debug\net6.0\ref\FuncionesPrincipales.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\bin\Debug\net6.0\FuncionesPrincipales.pdb
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.csproj.AssemblyReference.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.AssemblyInfoInputs.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.AssemblyInfo.cs
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\ref\FuncionesPrincipales.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\FuncionesPrincipales\obj\Debug\net6.0\FuncionesPrincipales.pdb

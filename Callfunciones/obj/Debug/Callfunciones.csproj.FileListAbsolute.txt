@@ -1,0 +1,11 @@
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\bin\Debug\Callfunciones.exe.config
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\bin\Debug\Callfunciones.exe
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\bin\Debug\Callfunciones.pdb
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\bin\Debug\BibliotecaDeFunciones.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\bin\Debug\BibliotecaDeFunciones.pdb
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\obj\Debug\Callfunciones.csproj.AssemblyReference.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\obj\Debug\Callfunciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\obj\Debug\Callfunciones.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\obj\Debug\Callfunciones.csproj.CopyComplete
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\obj\Debug\Callfunciones.exe
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\Callfunciones\obj\Debug\Callfunciones.pdb

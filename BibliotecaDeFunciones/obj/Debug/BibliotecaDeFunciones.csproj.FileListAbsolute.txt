@@ -1,0 +1,6 @@
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\BibliotecaDeFunciones\bin\Debug\BibliotecaDeFunciones.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\BibliotecaDeFunciones\bin\Debug\BibliotecaDeFunciones.pdb
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\BibliotecaDeFunciones\obj\Debug\BibliotecaDeFunciones.csproj.AssemblyReference.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\BibliotecaDeFunciones\obj\Debug\BibliotecaDeFunciones.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\BibliotecaDeFunciones\obj\Debug\BibliotecaDeFunciones.dll
+C:\Users\estudiante\source\repos\EjercicioVariosProyectos\BibliotecaDeFunciones\obj\Debug\BibliotecaDeFunciones.pdb
